@@ -1,0 +1,10 @@
+Numpy
+Pandas
+Python
+Scikit-learn
+Matplotlib
+Seaborn
+Lightgbm
+Nltk
+Jupyter notebook
+Textstat
